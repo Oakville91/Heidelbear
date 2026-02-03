@@ -1,4 +1,4 @@
-![Lou Carcolh](https://raw.githubusercontent.com/Oakville91/Heidelbear/main/Themes/Medieval%20Blue/Lou%20Carcolh.jpg)
+![Lou Carcolh](https://raw.githubusercontent.com/Oakville91/Heidelbear/main/Themes/Breton/Lou%20Carcolh.jpg)
 
 The Lou Carcolh is a monstrous being from Gascon folklore in southwestern France, often described as a giant, snail- or slug-like creature with tentacles that dwells in caves or marshes. Its name and tales likely served as local cautionary legends about dangerous terrain and unseen perils.
 
