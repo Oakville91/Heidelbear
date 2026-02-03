@@ -1,4 +1,4 @@
-# Kappa
+![Kappa](https://raw.githubusercontent.com/Oakville91/Heidelbear/main/Themes/Japanese/Kappa.jpg)
 
 The kappa is a creature from Japanese folklore, often described as a water-dwelling yokai (supernatural being). Kappas are typically associated with rivers, ponds, and other bodies of water throughout Japan.
 
