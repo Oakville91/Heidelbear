@@ -1,4 +1,4 @@
-![Tarasque](https://raw.githubusercontent.com/Oakville91/Heidelbear/main/Themes/Medieval%20Blue/Tarasque.jpg)
+![Tarasque](https://raw.githubusercontent.com/Oakville91/Heidelbear/main/Themes/Breton/Tarasque.jpg)
 
 The Tarasque is a legendary creature from Provençal folklore centered on the town of Tarascon in southern France. Famous from medieval bestiaries and saints’ lives, the Tarasque is portrayed as a fearsome, dragon-like monster subdued by Saint Martha and later celebrated in local festival tradition.
 
