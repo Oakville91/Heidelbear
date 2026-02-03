@@ -1,4 +1,4 @@
-![Tatzelwurm](https://raw.githubusercontent.com/Oakville91/Heidelbear/main/Themes/Dark%20Fantasy/Tatzelwurm.jpg)
+![Tatzelwurm](https://raw.githubusercontent.com/Oakville91/Heidelbear/main/Themes/Medieval/Tatzelwurm.jpg)
 
 The Tatzelwurm (also called Stollenwurm or Bergstutz) is a creature from Alpine folklore, described as a short, serpentine beast found in mountain regions of central Europe rather than Japan. It combines features of a lizard and a cat or dragon and appears in tales from the Alps and surrounding areas.
 
