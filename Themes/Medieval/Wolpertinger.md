@@ -1,5 +1,5 @@
 
-![Wolpertinger](https://raw.githubusercontent.com/Oakville91/Heidelbear/main/Themes/Dark%20Fantasy/Wolpertinger.jpg)
+![Wolpertinger](https://raw.githubusercontent.com/Oakville91/Heidelbear/main/Themes/Medieval/Wolpertinger.jpg)
 
 The Wolpertinger (also spelled Wolperdinger or Wolpertingerling) is a whimsical creature from Bavarian and Alpine folklore—an imaginary hybrid often described in hunting-lodge tall tales and seen in regional kitsch rather than natural history. It blends features of small woodland animals into a single, fantastical beast.
 
