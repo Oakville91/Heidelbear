@@ -1,1 +1,1 @@
-The Kirin can go to Fiddler's Green after catching a Wolptertinger.
+The Kirin can go to Fiddler's Green after catching a Wolpertinger With Links.
